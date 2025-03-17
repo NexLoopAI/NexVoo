@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://nexvoo.app">NexVoo</a></b><br />
+    <b><a href="https://nexvoo.us">NexVoo</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://nexvoo.app">
+<a href="https://nexvoo.us">
     <img alt="NexVoo logo" src="https://i.ibb.co/9yCK117/nex.png" style="width: 100%">
 </a>
 <br/>
@@ -19,10 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="https://nexvoo.app">Home Page</a> |
+    <a href="https://nexvoo.us">Home Page</a> |
     <a href="https://x.com/nexvoospace?s=21">Twitter</a> |
     <a href="https://medium.com/@_NexVoo">Medium</a> |
-    <a href="https://nexvoo.app">Documentation</a>
+    <a href="https://nexvoo.us">Documentation</a>
 </div>
 <br/>
 
