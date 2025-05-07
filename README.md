@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://nexvoo.us">NexVoo</a></b><br />
+    <b><a href="https://nexvoo.net">NexVoo</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://nexvoo.us">
+<a href="https://nexvoo.net">
     <img alt="NexVoo logo" src="https://i.ibb.co/9yCK117/nex.png" style="width: 100%">
 </a>
 <br/>
@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://nexvoo.us">Home Page</a> |
+    <a href="https://nexvoo.net">Home Page</a> |
     <a href="https://x.com/nexvoospace?s=21">Twitter</a> |
     <a href="https://medium.com/@_NexVoo">Medium</a> |
     <a href="https://nexvoo.us">Documentation</a>
@@ -97,7 +97,7 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [NexVoo](https://nexvoo.app) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [NexVoo](https://nexvoo.net) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
