@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://nexloop.me">
-    <img alt="NexLoop logo" src="https://i.ibb.co/99Gy5Z4R/nexloop.png" style="width: 100%">
+    <img alt="NexLoop logo" src="https://i.ibb.co/5HY7syV/Nexing.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
