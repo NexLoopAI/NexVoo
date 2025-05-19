@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://nexvoo.net">NexVoo</a></b><br />
+    <b><a href="https://nexloop.me">NexLoop</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://nexvoo.net">
-    <img alt="NexVoo logo" src="https://i.ibb.co/9yCK117/nex.png" style="width: 100%">
+<a href="https://nexloop.me">
+    <img alt="NexLoop logo" src="https://ibb.co/dsDQ6s9x" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,10 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="https://nexvoo.net">Home Page</a> |
-    <a href="https://x.com/nexvoospace?s=21">Twitter</a> |
-    <a href="https://medium.com/@_NexVoo">Medium</a> |
-    <a href="https://nexvoo.us">Documentation</a>
+    <a href="https://nexloop.me">Home Page</a> |
+    <a href="https://x.com/nexloopspace?s=21">Twitter</a> |
+    <a href="https://medium.com/@_NexLoop">Medium</a> |
+    <a href="https://nexloop.me">Documentation</a>
 </div>
 <br/>
 
@@ -109,7 +109,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to NexVoo! If you have any NexVoo-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexVoo](https://github.com/NexVoo/NexVoo).
+We would like to express our gratitude to all the individuals who have already contributed to NexVoo! If you have any NexVoo-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexLoop](https://github.com/NexVoo/NexVoo).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
