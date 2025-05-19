@@ -35,7 +35,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with NexVoo</em>
+<em>Docs, canvas and tables are hyper-merged with NexLoop</em>
 </div>
 <br />
 
@@ -46,27 +46,27 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/Zz8tjjC/photo00.png" style="width: 100%; height: auto;"/>
 
-## What is NexVoo
+## What is NexLoop
 
-NexVoo is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+NexLoop is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
 ## Features
 
 **A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-- Many editor apps claim to be a canvas for productivity, but NexVoo is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+- Many editor apps claim to be a canvas for productivity, but NexLoop is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
 **Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, NexVoo AI pushes your creativity to the edge of your imagination.
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, NexLoop AI pushes your creativity to the edge of your imagination.
 
 **Local-first & Real-time collaborative**
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, NexVoo supports real-time sync and collaborations on web and cross-platform clients.
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, NexLoop supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own NexVoo**
+**Self-host & Shape your own NexLoop**
 
-- You have the freedom to manage, self-host, fork and build your own NexVoo. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
+- You have the freedom to manage, self-host, fork and build your own NexLoop. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
 ## Acknowledgement
 
@@ -80,20 +80,20 @@ NexVoo is an open-source, all-in-one workspace and an operating system for all t
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that NexVoo resonates with you! 🎵 Checking https://nexvoo.app/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that NexLoop resonates with you! 🎵 Checking https://nexloop.me/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/NexVoo/NexVoo/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://nexloop.me) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@nexvoo.app                                                    |
+| [Create a bug report](https://github.com/NexLoop/NexLoop/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://nexloop.me) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@nexloop.me                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/NexVoo/NexVoo/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/NexLoop/NexLoop/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
@@ -103,13 +103,13 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@NexVoo/component](packages/frontend/component) | NexVoo Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@NexVooAI/theme](packages/common/theme)     | NexVoo theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@NexLoop/component](packages/frontend/component) | NexLoop Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@NexLoopAI/theme](packages/common/theme)     | NexLoop theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to NexVoo! If you have any NexVoo-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexLoop](https://github.com/NexVoo/NexVoo).
+We would like to express our gratitude to all the individuals who have already contributed to NexLoop! If you have any NexLoop-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexLoop](https://github.com/NexLoop/NexLoop).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -117,26 +117,26 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of NexVoo. Our team is diligently updating to the latest version. For more information on how to self-host NexVoo, please refer to our [documentation](https://nexvoo.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of NexLoop. Our team is diligently updating to the latest version. For more information on how to self-host NexLoop, please refer to our [documentation](https://nexloop.me/).
 
 ## Hiring
 
-Some amazing companies, including NexVoo, are looking for developers! Are you interested in joining NexVoo or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including NexLoop, are looking for developers! Are you interested in joining NexLoop or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@nexvoo.app]
+For questions and suggestions, please use this email [contact@nexloop.me]
 
 ## Building
 
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-NexVoo repo cloned, built, and ready to go.
+NexLoop repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build NexVoo from source code.
+See [BUILDING.md] for instructions on how to build NexLoop from source code.
 
 ## Contributing
 
