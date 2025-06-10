@@ -18,10 +18,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f26201604c87b1e01bd3d98f8d5d9a8fcbb815e8cedb41ffccbeb4bf593a35fe"
 
 [[package]]
-name = "NexVoo_native"
+name = "Yonda_native"
 version = "0.0.0"
 dependencies = [
- "NexVoo_schema",
+ "Yonda_schema",
  "anyhow",
  "chrono",
  "dotenv",
@@ -41,11 +41,11 @@ dependencies = [
 ]
 
 [[package]]
-name = "NexVoo_schema"
+name = "Yonda_schema"
 version = "0.0.0"
 
 [[package]]
-name = "NexVoo_server_native"
+name = "Yonda_server_native"
 version = "1.0.0"
 dependencies = [
  "chrono",
