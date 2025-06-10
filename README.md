@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://nexloop.me">NexLoop</a></b><br />
+    <b><a href="https://Yonda.us">Yonda</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://nexloop.me">
-    <img alt="NexLoop logo" src="https://i.ibb.co/nyqr6hF/nexing.png" style="width: 100%">
+<a href="https://Yonda.us">
+    <img alt="Yonda logo" src="https://i.ibb.co/5gPfjyfV/Frame-1618871881.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,10 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="https://nexloop.me">Home Page</a> |
-    <a href="https://x.com/nexloopspace?s=21">Twitter</a> |
-    <a href="https://medium.com/@_NexLoop">Medium</a> |
-    <a href="https://nexloop.me">Documentation</a>
+    <a href="https://Yonda.us">Home Page</a> |
+    <a href="https://x.com/yondaspace?s=21">Twitter</a> |
+    <a href="https://medium.com/@YondaAI">Medium</a> |
+    <a href="https://Yonda.us">Documentation</a>
 </div>
 <br/>
 
@@ -35,7 +35,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with NexLoop</em>
+<em>Docs, canvas and tables are hyper-merged with Yonda</em>
 </div>
 <br />
 
@@ -46,27 +46,27 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/Zz8tjjC/photo00.png" style="width: 100%; height: auto;"/>
 
-## What is NexLoop
+## What is Yonda
 
-NexLoop is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+Yonda is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
 ## Features
 
 **A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-- Many editor apps claim to be a canvas for productivity, but NexLoop is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+- Many editor apps claim to be a canvas for productivity, but Yonda is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
 **Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, NexLoop AI pushes your creativity to the edge of your imagination.
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, Yonda AI pushes your creativity to the edge of your imagination.
 
 **Local-first & Real-time collaborative**
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, NexLoop supports real-time sync and collaborations on web and cross-platform clients.
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, Yonda supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own NexLoop**
+**Self-host & Shape your own Yonda**
 
-- You have the freedom to manage, self-host, fork and build your own NexLoop. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
+- You have the freedom to manage, self-host, fork and build your own Yonda. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
 ## Acknowledgement
 
@@ -80,36 +80,36 @@ NexLoop is an open-source, all-in-one workspace and an operating system for all 
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that NexLoop resonates with you! 🎵 Checking https://nexloop.me/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that Yonda resonates with you! 🎵 Checking https://Yonda.us/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/NexLoop/NexLoop/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://nexloop.me) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@nexloop.me                                                    |
+| [Create a bug report](https://github.com/Yonda/Yonda/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://Yonda.us) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Yonda.us                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/NexLoop/NexLoop/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/Yonda/Yonda/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [NexLoop](https://nexloop.me) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [Yonda](https://Yonda.us) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@NexLoop/component](packages/frontend/component) | NexLoop Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@NexLoopAI/theme](packages/common/theme)     | NexLoop theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@Yonda/component](packages/frontend/component) | Yonda Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@YondaAI/theme](packages/common/theme)     | Yonda theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to NexLoop! If you have any NexLoop-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexLoop](https://github.com/NexLoop/NexLoop).
+We would like to express our gratitude to all the individuals who have already contributed to Yonda! If you have any Yonda-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Yonda](https://github.com/Yonda/Yonda).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -117,26 +117,26 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of NexLoop. Our team is diligently updating to the latest version. For more information on how to self-host NexLoop, please refer to our [documentation](https://nexloop.me/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Yonda. Our team is diligently updating to the latest version. For more information on how to self-host Yonda, please refer to our [documentation](https://Yonda.us/).
 
 ## Hiring
 
-Some amazing companies, including NexLoop, are looking for developers! Are you interested in joining NexLoop or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including Yonda, are looking for developers! Are you interested in joining Yonda or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@nexloop.me]
+For questions and suggestions, please use this email [contact@Yonda.us]
 
 ## Building
 
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-NexLoop repo cloned, built, and ready to go.
+Yonda repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build NexLoop from source code.
+See [BUILDING.md] for instructions on how to build Yonda from source code.
 
 ## Contributing
 
