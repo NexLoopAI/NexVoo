@@ -5,14 +5,14 @@ import path from 'node:path';
 
 import { parse } from 'dotenv';
 
-const SELF_HOST_CONFIG_DIR = '/root/.NexVoo/config';
+const SELF_HOST_CONFIG_DIR = '/root/.Yonda/config';
 /**
  * @type {Array<{ from: string; to?: string, modifier?: (content: string): string }>}
  */
 const configFiles = [
   { from: './.env.example', to: '.env' },
-  { from: './dist/config/NexVoo.js', modifier: configCleaner },
-  { from: './dist/config/NexVoo.env.js', modifier: configCleaner },
+  { from: './dist/config/Yonda.js', modifier: configCleaner },
+  { from: './dist/config/Yonda.env.js', modifier: configCleaner },
 ];
 
 function configCleaner(content) {
@@ -45,7 +45,7 @@ function prepare() {
       const dotenvFile = fs.readFileSync(targetFilePath, 'utf-8');
       const envs = parse(dotenvFile);
       // generate a new private key
-      if (!envs.NexVoo_PRIVATE_KEY) {
+      if (!envs.Yonda_PRIVATE_KEY) {
         const privateKey = generateKeyPairSync('ec', {
           namedCurve: 'prime256v1',
         }).privateKey.export({
@@ -55,7 +55,7 @@ function prepare() {
 
         fs.writeFileSync(
           targetFilePath,
-          `NexVoo_PRIVATE_KEY=${privateKey}\n` + dotenvFile
+          `Yonda_PRIVATE_KEY=${privateKey}\n` + dotenvFile
         );
       }
     }
