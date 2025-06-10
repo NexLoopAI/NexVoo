@@ -1,12 +1,12 @@
-## NexVoo Release Process
+## Yonda Release Process
 
-> In order to make a stable/beta release, you need to get authorization from the NexVoo test team.
+> In order to make a stable/beta release, you need to get authorization from the Yonda test team.
 
 ## Who can make a release?
 
-The NexVoo core team gives release authorization. And also have the following requirements.
+The Yonda core team gives release authorization. And also have the following requirements.
 
-- Have commit access to the NexVoo repository.
+- Have commit access to the Yonda repository.
 - Have access to GitHub Actions.
 
 ## How to make a release?
@@ -32,7 +32,7 @@ git push origin canary
 
 ### 3. Create a release action
 
-Create a release action in the [Release Desktop App](https://github.com/toeverything/NexVoo/actions/workflows/release-desktop-app.yml).
+Create a release action in the [Release Desktop App](https://github.com/toeverything/Yonda/actions/workflows/release-desktop-app.yml).
 
 ![img.png](assets/release-action.png)
 
@@ -40,7 +40,7 @@ Select the correct branch and fill out the form, then click `Run workflow`.
 
 ### 4. Publish the release
 
-After the release action is completed, you can see the draft release on the [release page](https://github.com/toeverything/NexVoo/releases).
+After the release action is completed, you can see the draft release on the [release page](https://github.com/toeverything/Yonda/releases).
 
 You can edit the release note and publish it.
 
