@@ -1,1 +1,1 @@
-# Please visit https://NexVoo.app/blog/
+# Please visit https://yonda.us/blog/
