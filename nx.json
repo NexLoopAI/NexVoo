@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "NexVooApp",
+  "npmScope": "YondaoApp",
   "nxCloudAccessToken": "MzUwNTU4YWItZGFhYi00YjE2LWIxODAtODk4NmIwYjMwYzZkfHJlYWQ=",
   "tasksRunnerOptions": {
     "default": {
