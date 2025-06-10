@@ -1,8 +1,8 @@
 {
-  "name": "@NexVoo/server",
+  "name": "@Yonda/server",
   "private": true,
   "version": "0.14.6",
-  "description": "NexVoo Node.js server",
+  "description": "Yonda Node.js server",
   "type": "module",
   "bin": {
     "run-test": "./scripts/run-test.ts"
@@ -93,8 +93,8 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@NexVoo-test/kit": "workspace:*",
-    "@NexVoo/server-native": "workspace:*",
+    "@Yonda-test/kit": "workspace:*",
+    "@Yonda/server-native": "workspace:*",
     "@napi-rs/image": "^1.9.1",
     "@nestjs/testing": "^10.3.7",
     "@types/cookie-parser": "^1.4.7",
@@ -143,10 +143,10 @@
       "MAILER_HOST": "0.0.0.0",
       "MAILER_PORT": "1025",
       "MAILER_USER": "noreply@toeverything.info",
-      "MAILER_PASSWORD": "NexVoo",
+      "MAILER_PASSWORD": "Yonda",
       "MAILER_SENDER": "noreply@toeverything.info",
       "FEATURES_EARLY_ACCESS_PREVIEW": "false",
-      "DEPLOYMENT_TYPE": "NexVoo"
+      "DEPLOYMENT_TYPE": "Yonda"
     }
   },
   "nodemonConfig": {
@@ -164,7 +164,7 @@
     "env": {
       "TS_NODE_TRANSPILE_ONLY": true,
       "TS_NODE_PROJECT": "./tsconfig.json",
-      "DEBUG": "NexVoo:*",
+      "DEBUG": "Yonda:*",
       "FORCE_COLOR": true,
       "DEBUG_COLORS": true
     },
