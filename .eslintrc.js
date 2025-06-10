@@ -12,7 +12,7 @@ const createPattern = packageName => [
     allowTypeImports: false,
   },
   {
-    group: [`@NexVoo/${packageName}`],
+    group: [`@Yonda/${packageName}`],
     message: 'Do not import package itself',
     allowTypeImports: false,
   },
@@ -32,9 +32,9 @@ const createPattern = packageName => [
     importNames: ['useNavigate'],
   },
   {
-    group: ['@NexVoo/env/constant'],
+    group: ['@Yonda/env/constant'],
     message:
-      'Do not import from @NexVoo/env/constant. Use `environment.isDesktop` instead',
+      'Do not import from @Yonda/env/constant. Use `environment.isDesktop` instead',
     importNames: ['isDesktop'],
   },
 ];
