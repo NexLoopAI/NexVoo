@@ -11,7 +11,7 @@ yarn
 ### Build Native binding
 
 ```bash
-yarn workspace @NexVoo/server-native build
+yarn workspace @Yonda/server-native build
 ```
 
 ### Run server
