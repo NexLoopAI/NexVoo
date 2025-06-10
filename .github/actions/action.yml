@@ -1,4 +1,4 @@
-name: 'NexVoo Rust build'
+name: 'Yonda Rust build'
 description: 'Rust build setup, including cache configuration'
 inputs:
   target:
@@ -30,7 +30,7 @@ runs:
         CARGO_INCREMENTAL: '1'
 
     - name: Set CC
-      if: ${{ contains(inputs.target, 'linux') && inputs.package != '@NexVoo/native' }}
+      if: ${{ contains(inputs.target, 'linux') && inputs.package != '@Yonda/native' }}
       shell: bash
       run: |
         echo "CC=clang" >> "$GITHUB_ENV"
