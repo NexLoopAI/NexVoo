@@ -31,6 +31,6 @@
   },
   "vitest.include": ["packages/**/*.spec.ts", "packages/**/*.spec.tsx"],
   "rust-analyzer.check.extraEnv": {
-    "DATABASE_URL": "sqlite:NexVoo.db"
+    "DATABASE_URL": "sqlite:Yonda.db"
   }
 }
