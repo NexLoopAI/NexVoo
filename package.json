@@ -1,8 +1,8 @@
 {
-  "name": "NexVoo",
+  "name": "Yonda",
   "version": "0.14.6",
   "private": true,
-  "author": "NexVooai",
+  "author": "Yondaai",
   "license": "MIT",
   "workspaces": [
     ".",
@@ -11,18 +11,18 @@
     "docs/reference",
     "tools/@types/*",
     "tests/*",
-    "tests/NexVooai/*"
+    "tests/Yondaai/*"
   ],
   "engines": {
     "node": "<21.0.0"
   },
   "scripts": {
-    "dev": "yarn workspace @NexVooai/cli dev",
-    "dev:electron": "yarn workspace @NexVooai/electron dev",
-    "build": "yarn nx build @NexVooai/web",
-    "build:electron": "yarn nx build @NexVooai/electron",
-    "build:server-native": "yarn nx run-many -t build -p @NexVooai/server-native",
-    "start:web-static": "yarn workspace @NexVooai/web static-server",
+    "dev": "yarn workspace @Yondaai/cli dev",
+    "dev:electron": "yarn workspace @Yondaai/electron dev",
+    "build": "yarn nx build @Yondaai/web",
+    "build:electron": "yarn nx build @Yondaai/electron",
+    "build:server-native": "yarn nx run-many -t build -p @Yondaai/server-native",
+    "start:web-static": "yarn workspace @Yondaai/web static-server",
     "serve:test-static": "yarn exec serve tests/fixtures --cors -p 8081",
     "lint:eslint": "cross-env NODE_OPTIONS=\"--max-old-space-size=8192\" eslint . --ext .js,mjs,.ts,.tsx --cache",
     "lint:eslint:fix": "yarn lint:eslint --fix",
@@ -52,8 +52,8 @@
     ]
   },
   "devDependencies": {
-    "@NexVooai-test/kit": "workspace:*",
-    "@NexVooai/cli": "workspace:*",
+    "@Yondaai-test/kit": "workspace:*",
+    "@Yondaai/cli": "workspace:*",
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
     "@faker-js/faker": "^8.4.1",
@@ -64,7 +64,7 @@
     "@taplo/cli": "^0.7.0",
     "@testing-library/react": "^15.0.0",
     "@toeverything/infra": "workspace:*",
-    "@types/NexVooai__env": "workspace:*",
+    "@types/Yondaai__env": "workspace:*",
     "@types/eslint": "^8.56.7",
     "@types/node": "^20.12.7",
     "@typescript-eslint/eslint-plugin": "^7.6.0",
