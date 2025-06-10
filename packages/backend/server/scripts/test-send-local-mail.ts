@@ -11,7 +11,7 @@ const transport = createTransport({
 });
 
 await transport.sendMail({
-  from: 'noreply@NexVooai.info',
+  from: 'noreply@YondaAI.info',
   to: 'himself65@outlook.com',
   subject: 'test',
   html: `<div>hello world</div>`,
