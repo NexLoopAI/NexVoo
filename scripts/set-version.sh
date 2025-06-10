@@ -38,6 +38,6 @@ update_app_version_in_helm_charts() {
 
 new_version=$1
 
-update_app_version_in_helm_charts ".github/helm/NexVoo/Chart.yaml" "$new_version"
-update_app_version_in_helm_charts ".github/helm/NexVoo/charts/graphql/Chart.yaml" "$new_version"
-update_app_version_in_helm_charts ".github/helm/NexVoo/charts/sync/Chart.yaml" "$new_version"
+update_app_version_in_helm_charts ".github/helm/Yonda/Chart.yaml" "$new_version"
+update_app_version_in_helm_charts ".github/helm/Yonda/charts/graphql/Chart.yaml" "$new_version"
+update_app_version_in_helm_charts ".github/helm/Yonda/charts/sync/Chart.yaml" "$new_version"
