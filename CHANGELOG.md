@@ -1,5 +1,5 @@
 # Changelog
 
-See the [NexVoo CHANGELOG](https://NexVoo.app)
+See the [Yonda CHANGELOG](https://yonda.us)
 
 ---
