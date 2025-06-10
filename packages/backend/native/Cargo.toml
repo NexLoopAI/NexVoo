@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name    = "NexVoo_server_native"
+name    = "Yonda_server_native"
 version = "1.0.0"
 
 [lib]
