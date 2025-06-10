@@ -16,7 +16,7 @@ We welcome you to provide us with bug reports via and email at [security@toevery
 1. Using platform and version, for example:
 
    - macos arm64 0.12.0-canary-202402220729-0868ac6
-   - app NexVoo.app 0.12.0-canary-202402220729-0868ac6
+   - app Yonda.us 0.12.0-canary-202402220729-0868ac6
 
 2. A sets of video or screenshot containing the reproduce steps that proves you successfully exploited the vulnerability, preferably including the time and software version of the successful exploit.
 
