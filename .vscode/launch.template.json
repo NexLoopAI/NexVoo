@@ -14,12 +14,12 @@
       "command": "yarn run dev:local"
     },
     {
-      "name": "Launch NexVoo Cloud",
+      "name": "Launch Yonda Cloud",
       "type": "node",
       "request": "launch",
       "runtimeExecutable": "yarn",
       "cwd": "${workspaceFolder}",
-      "runtimeArgs": ["workspace", "@NexVoo/server", "dev"]
+      "runtimeArgs": ["workspace", "@Yonda/server", "dev"]
     }
   ]
 }
