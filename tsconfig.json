@@ -19,7 +19,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
-    "types": ["NexVoo__env"],
+    "types": ["Yonda__env"],
     // Emit
     "declaration": true,
     "declarationMap": true,
@@ -47,30 +47,30 @@
     // Completeness
     "skipLibCheck": true, // skip all type checks for .d.ts files
     "paths": {
-      "@NexVoo/core/*": ["./packages/frontend/core/src/*"],
-      "@NexVoo/core": ["./packages/frontend/core/src/index.ts"],
-      "@NexVoo/cli/*": ["./tools/cli/src/*"],
-      "@NexVoo/server/*": ["./packages/backend/server/src/*"],
-      "@NexVoo/component": ["./packages/frontend/component/src/index"],
-      "@NexVoo/component/*": [
+      "@Yonda/core/*": ["./packages/frontend/core/src/*"],
+      "@Yonda/core": ["./packages/frontend/core/src/index.ts"],
+      "@Yonda/cli/*": ["./tools/cli/src/*"],
+      "@Yonda/server/*": ["./packages/backend/server/src/*"],
+      "@Yonda/component": ["./packages/frontend/component/src/index"],
+      "@Yonda/component/*": [
         "./packages/frontend/component/src/components/*/index",
         "./packages/frontend/component/src/components/*"
       ],
-      "@NexVoo/i18n": ["./packages/frontend/i18n/src"],
-      "@NexVoo/i18n/hooks": ["./packages/frontend/i18n/src/i18n-generated"],
-      "@NexVoo/debug": ["./packages/common/debug"],
-      "@NexVoo/env": ["./packages/common/env/src"],
-      "@NexVoo/env/*": ["./packages/common/env/src/*"],
-      "@NexVoo/graphql": ["./packages/frontend/graphql/src"],
-      "@NexVoo/electron/scripts/*": ["./packages/frontend/electron/scripts/*"],
-      "@NexVoo-test/kit/*": ["./tests/kit/*"],
-      "@NexVoo-test/fixtures/*": ["./tests/fixtures/*"],
+      "@Yonda/i18n": ["./packages/frontend/i18n/src"],
+      "@Yonda/i18n/hooks": ["./packages/frontend/i18n/src/i18n-generated"],
+      "@Yonda/debug": ["./packages/common/debug"],
+      "@Yonda/env": ["./packages/common/env/src"],
+      "@Yonda/env/*": ["./packages/common/env/src/*"],
+      "@Yonda/graphql": ["./packages/frontend/graphql/src"],
+      "@Yonda/electron/scripts/*": ["./packages/frontend/electron/scripts/*"],
+      "@Yonda-test/kit/*": ["./tests/kit/*"],
+      "@Yonda-test/fixtures/*": ["./tests/fixtures/*"],
       "@toeverything/infra": ["./packages/common/infra/src"],
-      "@NexVoo/native": ["./packages/frontend/native/index.d.ts"],
-      "@NexVoo/native/*": ["./packages/frontend/native/*"],
-      "@NexVoo/server-native": ["./packages/backend/native/index.d.ts"],
+      "@Yonda/native": ["./packages/frontend/native/index.d.ts"],
+      "@Yonda/native/*": ["./packages/frontend/native/*"],
+      "@Yonda/server-native": ["./packages/backend/native/index.d.ts"],
       // Development only
-      "@NexVoo/electron/*": ["./packages/frontend/electron/src/*"]
+      "@Yonda/electron/*": ["./packages/frontend/electron/src/*"]
     }
   },
   "include": [],
@@ -123,28 +123,28 @@
       "path": "./tests/kit"
     },
     {
-      "path": "./tests/NexVoo-local"
+      "path": "./tests/Yonda-local"
     },
     {
-      "path": "./tests/NexVoo-migration"
+      "path": "./tests/Yonda-migration"
     },
     {
-      "path": "./tests/NexVoo-legacy/0.7.0-canary.18"
+      "path": "./tests/Yonda-legacy/0.7.0-canary.18"
     },
     {
-      "path": "./tests/NexVoo-legacy/0.8.0-canary.7"
+      "path": "./tests/Yonda-legacy/0.8.0-canary.7"
     },
     {
-      "path": "./tests/NexVoo-cloud"
+      "path": "./tests/Yonda-cloud"
     },
     {
-      "path": "./tests/NexVoo-desktop"
+      "path": "./tests/Yonda-desktop"
     },
     {
-      "path": "./tests/NexVoo-legacy/0.8.4"
+      "path": "./tests/Yonda-legacy/0.8.4"
     },
     {
-      "path": "./tests/NexVoo-legacy/0.6.1-beta.1"
+      "path": "./tests/Yonda-legacy/0.6.1-beta.1"
     },
     // Others
     {
