@@ -1,4 +1,4 @@
-# Building NexVoo Desktop Client App
+# Building Yonda Desktop Client App
 
 > **Warning**:
 >
@@ -31,7 +31,7 @@ We will explain the steps in the following sections.
 
 ## Prerequisites
 
-Before you start building NexVoo Desktop Client Application, please following the same steps in [BUILDING#Prerequisites](./BUILDING.md#prerequisites) to install Node.js and Rust.
+Before you start building Yonda Desktop Client Application, please following the same steps in [BUILDING#Prerequisites](./BUILDING.md#prerequisites) to install Node.js and Rust.
 
 On Windows, you must enable symbolic links this code repo. See [#### Windows](./BUILDING.md#Windows).
 
@@ -46,7 +46,7 @@ Please refer to `Build Native Dependencies` section in [BUILDING.md](./BUILDING.
 On Mac & Linux
 
 ```shell
-BUILD_TYPE=canary SKIP_NX_CACHE=1 yarn workspace @NexVoo/electron generate-assets
+BUILD_TYPE=canary SKIP_NX_CACHE=1 yarn workspace @Yonda/electron generate-assets
 ```
 
 On Windows (powershell)
@@ -91,7 +91,7 @@ yarn install
 Note: you need to comment out `osxSign` and `osxNotarize` in `forge.config.js` to skip signing and notarizing the app.
 
 ```shell
-BUILD_TYPE=canary SKIP_WEB_BUILD=1 HOIST_NODE_MODULES=1 yarn workspace @NexVoo/electron make
+BUILD_TYPE=canary SKIP_WEB_BUILD=1 HOIST_NODE_MODULES=1 yarn workspace @Yonda/electron make
 ```
 
 #### Windows
@@ -102,16 +102,16 @@ Making the windows installer is a bit different. Right now we provide two instal
 $env:BUILD_TYPE="canary"
 $env:SKIP_WEB_BUILD=1
 $env:HOIST_NODE_MODULES=1
-yarn workspace @NexVoo/electron package
-yarn workspace @NexVoo/electron make-squirrel
-yarn workspace @NexVoo/electron make-nsis
+yarn workspace @Yonda/electron package
+yarn workspace @Yonda/electron make-squirrel
+yarn workspace @Yonda/electron make-nsis
 ```
 
 Once the build is complete, you can find the paths to the binaries in the terminal output.
 
 ```
 Finished 2 bundles at:
-  › Artifacts available at: <NexVoo-repo>/packages/frontend/electron/out/make
+  › Artifacts available at: <Yonda-repo>/packages/frontend/electron/out/make
 ```
 
 ## CI
