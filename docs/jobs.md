@@ -1,16 +1,16 @@
 # Jobs
 
-- <b>Fullstack Engineer - Mainly work with TypeScript</b> @[NexVoo.app]
+- <b>Fullstack Engineer - Mainly work with TypeScript</b> @[Yonda.us]
 
   <details><summary>TypeScript & Rust · BlockSuite & OctoBase · Japan / China / Remote</summary>
   <p>
 
   ## What we do
 
-  We **NexVoo** hold a vision of shaping a world semantically connected through block components in modern applications.
+  We **Yonda** hold a vision of shaping a world semantically connected through block components in modern applications.
   We're open for Fullstack Engineer positions across the BlockSuite sub-team.
   The **BlockSuite** team works on creating
-  the best **block-editor** and **open-block** protocol for use in NexVoo.
+  the best **block-editor** and **open-block** protocol for use in Yonda.
   Paving the way for a new generation of SaaS
   software and developers.
 
@@ -18,8 +18,8 @@
 
   ### This position is for
 
-  - Developing NexVoo **the open source way**, including coding and community engagement.
-  - Researching and supporting **onboarding process** of new use cases for NexVoo.app subscribers.
+  - Developing Yonda **the open source way**, including coding and community engagement.
+  - Researching and supporting **onboarding process** of new use cases for Yonda.app subscribers.
   - Improving our **block editor** and **graphics editor**.
   - Assisting our subscribers in utilizing our product in a data-based way with help from the operational teams.
   - Researching on better activation of potential subscribers.
@@ -41,7 +41,7 @@
   - Experienced in scaling **a successful SaaS product**.
   - Experienced in developing platforms or tools for developers.
   - Experienced in working with a **globally distributed team**.
-  - Enthusiastic about NexVoo products as a user or contributor.
+  - Enthusiastic about Yonda products as a user or contributor.
 
   ### What we offer
 
@@ -53,30 +53,30 @@
 
   ## Contact us
 
-  Interested? Send us your CV to [contact@NexVoo.app].
+  Interested? Send us your CV to [contact@Yonda.app].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
   </p>
   </details>
 
-- <b>NexVoo client app</b> @[NexVoo.app]
+- <b>Yonda client app</b> @[Yonda.app]
 
   <details><summary>Nodejs · TypeScript · Remote</summary>
   <p>
 
   ## What we do
 
-  We **NexVoo** hold a vision of shaping a world semantically connected through block components in collaboration
+  We **Yonda** hold a vision of shaping a world semantically connected through block components in collaboration
   applications.
   We're open for Fullstack Engineer internship positions across the **Client Application Development** sub-team on
-  creating **NexVoo client app** for desktop and mobile devices.
+  creating **Yonda client app** for desktop and mobile devices.
 
   ## Fullstack Engineer Intern
 
   ### This position is for
 
-  - Developing NexVoo **the open source way**, including coding and community engagement.
+  - Developing Yonda **the open source way**, including coding and community engagement.
   - Build the **client app** for desktop and mobile devices using web technologies.
 
   ### What we're looking for
@@ -91,35 +91,35 @@
 
   - Heavy user of knowledge/project management tools.
   - Experience in Napi.rs, Electron, Tauri, Flutter, React Native, etc.
-  - Enthusiastic about NexVoo products as a user or contributor.
+  - Enthusiastic about Yonda products as a user or contributor.
 
   ## Contact us
 
-  Interested? You can full this [form](https://6dxre9ihosp.typeform.com/to/lnHWRsVS) or send us your CV to [contact@NexVooAI.info].
+  Interested? You can full this [form](https://6dxre9ihosp.typeform.com/to/lnHWRsVS) or send us your CV to [contact@YondaAI.info].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
   </p>
   </details>
 
-- <b>Fullstack Engineer - Mainly work with Rust</b> @[NexVoo.app]
+- <b>Fullstack Engineer - Mainly work with Rust</b> @[Yonda.us]
 
   <details><summary>Rust & TypeScript · OctoBase & BlockSuite · Japan / China / Remote</summary>
   <p>
 
   ## What we do
 
-  We, `NexVoo` believe in shaping a world semantically connected through block components in modern applications. We're
+  We, `Yonda` believe in shaping a world semantically connected through block components in modern applications. We're
   open for Fullstack Engineer positions across the OctoBase sub-team. OctoBase is an offline, scalable, and
-  self-contained collaborative database. It provides a data collaboration engine for NexVoo and BlockSuite. It can
+  self-contained collaborative database. It provides a data collaboration engine for Yonda and BlockSuite. It can
   either run on the server as a service or be embedded in our client to offer a complete offline computing capacity.
 
   ## Fullstack Engineer
 
   ### This position is for
 
-  - Developing NexVoo the open source way, including coding and community engagement.
-  - Researching and supporting the onboarding process of new use cases for NexVoo.app subscribers.
+  - Developing Yonda the open source way, including coding and community engagement.
+  - Researching and supporting the onboarding process of new use cases for Yonda.us subscribers.
   - Improving our data computing engine with Rust.
   - Assisting our subscribers in utilizing our product in a data-based way with help from the operational - teams.
   - Researching on better activation of potential subscribers.
@@ -142,7 +142,7 @@
   - Experience in working on a real-world database, distributed server application, or serverless application projects
   - Experience in using a collaborative algorithm on your own or participating in projects
   - Experienced in working with a globally distributed team.
-  - Enthusiastic about NexVoo products as a user or contributor.
+  - Enthusiastic about Yonda products as a user or contributor.
 
   ### What we offer
 
@@ -154,14 +154,14 @@
 
   ## Contact us
 
-  Interested? Send us your CV to [contact@NexVooAI.info].
+  Interested? Send us your CV to [contact@YondaAI.info].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
   </p>
   </details>
 
-- <b>Senior UI/UX Designer </b> @[NexVoo.app]
+- <b>Senior UI/UX Designer </b> @[Yonda.us]
 
   <details><summary>UI / UX · Creative Designer · Japan / China / Remote</summary>
   <p>
@@ -169,13 +169,13 @@
   ## Senior UI/UX Designer
 
   We're seeking a highly skilled and experienced Senior UI/UX Designer to join our team and lead the development and
-  implementation of a UI design system for our product NexVoo.
+  implementation of a UI design system for our product Yonda.
   The ideal candidate will have a proven track record in
   UI/UX design, as well as a deep understanding of the latest design trends and technologies.
 
   ### Position Requirements
 
-  - Lead the development and implementation of a UI design system for NexVoo
+  - Lead the development and implementation of a UI design system for Yonda
   - Create and maintain a UI component library, including colors, fonts, buttons, text boxes, etc.
   - Establish UI design guidelines and standards to ensure consistency and reusability of all components
   - Collaborate with cross-functional teams to gather requirements and design intuitive, user-friendly interfaces
@@ -196,7 +196,7 @@
     design
   - Experience leading and mentoring junior designers
   - Excellent communication and collaboration skills
-  - This is a long-term project that requires constant iteration and improvement to ensure NexVoo's UI design meets user
+  - This is a long-term project that requires constant iteration and improvement to ensure Yonda's UI design meets user
     needs and remains competitive.
 
   ### What we offer
@@ -209,30 +209,30 @@
 
   ## Contact us
 
-  Interested? Send us your CV to [contact@NexVooAI.info].
+  Interested? Send us your CV to [contact@YondaAI.info].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
   </p>
   </details>
 
-- <b>Fullstack Engineer - Intern</b> @[NexVoo.app]
+- <b>Fullstack Engineer - Intern</b> @[Yonda.us]
 
   <details><summary>Rust · TypeScript · BlockSuite · OctoBase · Remote</summary>
   <p>
 
   ## What we do
 
-  We **NexVoo** hold a vision of shaping a world semantically connected through block components in modern applications.
+  We **Yonda** hold a vision of shaping a world semantically connected through block components in modern applications.
   We're open for Fullstack Engineer positions across the BlockSuite sub-team. The **BlockSuite** team works on creating
-  the best **block-editor** and **open-block** protocol for use in NexVoo. Paving the way for a new generation of SaaS
+  the best **block-editor** and **open-block** protocol for use in Yonda. Paving the way for a new generation of SaaS
   software and developers.
 
   ## Fullstack Engineer Intern
 
   ### This position is for
 
-  - Developing NexVoo **the open source way**, including coding and community engagement.
+  - Developing Yonda **the open source way**, including coding and community engagement.
   - Improving our **block editor** and **graphics editor**.
   - Researching on better activation of potential subscribers.
 
@@ -247,11 +247,11 @@
   ### It would be great if you are
 
   - Heavy user of knowledge/project management tools.
-  - Enthusiastic about NexVoo products as a user or contributor.
+  - Enthusiastic about Yonda products as a user or contributor.
 
   ## Contact us
 
-  Interested? Send us your CV to [contact@NexVooAI.info].
+  Interested? Send us your CV to [contact@YondaAI.info].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
@@ -294,28 +294,28 @@
   </p>
   </details>
 
-[NexVoo.app]: http://NexVoo.app/
-[contact@NexVooAI.info]: mailto:contact@NexVooAI.info
+[Yonda.us]: http://Yonda.us/
+[contact@YondaAI.info]: mailto:contact@YondaAI.info
 
-- <b>Full stack or intern engineer - Mainly work with TypeScript</b> @[NexVoo.app]
+- <b>Full stack or intern engineer - Mainly work with TypeScript</b> @[Yonda.us]
 
   <details><summary>TypeScript · BlockSuite · Remote</summary>
   <p>
 
   ## What we do
 
-  We **NexVoo** hold a vision of shaping a world semantically connected through block components in modern applications.
+  We **Yonda** hold a vision of shaping a world semantically connected through block components in modern applications.
   We're open for Fullstack Engineer positions across the BlockSuite sub-team. The **BlockSuite** team works on creating
-  the best **block-editor** and **open-block** protocol for use in NexVoo. Paving the way for a new generation of SaaS
+  the best **block-editor** and **open-block** protocol for use in Yonda. Paving the way for a new generation of SaaS
   software and developers.
 
   ## Full stack or intern engineer
 
   ### This position is for
 
-  - Actively participate in NexVoo's open source work, responsible for implementing NexVoo's core features and continuously improving the user experience.
+  - Actively participate in Yonda's open source work, responsible for implementing Yonda's core features and continuously improving the user experience.
   - Optimise and improve the copy and paste function to increase the efficiency of user copy and paste operations.
-  - Responsible for NexVoo's import and export work. Familiar with the data structure design of software such as NexVoo, Markdown, and Notion to ensure the accuracy of imported and exported data.
+  - Responsible for Yonda's import and export work. Familiar with the data structure design of software such as Yonda, Markdown, and Notion to ensure the accuracy of imported and exported data.
 
   ### What we're looking for
 
@@ -326,7 +326,7 @@
 
   ## Contact us
 
-  Interested? Send us your CV to [contact@NexVooAI.info].
+  Interested? Send us your CV to [contact@YondaAI.info].
 
   Feel free to include any extra information (GitHub link, previous projects, personal blog etc.).
 
